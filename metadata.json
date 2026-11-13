@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Waffle Fruity Café - Chef Cilik Game",
+  "description": "Interactive fruit waffle cafe simulation game for Little Chefs featuring customer orders, waffle decorating, quality checks, and chef rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
